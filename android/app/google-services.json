@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "256908577861",
+    "project_id": "taskino-c171f",
+    "storage_bucket": "taskino-c171f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256908577861:android:32b3288f3817e2feb0e72c",
+        "android_client_info": {
+          "package_name": "com.example.taskino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgUpBPArPcrWhYrU35u8f7Wd2it60DnHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256908577861:android:9f2a3fac1005e1abb0e72c",
+        "android_client_info": {
+          "package_name": "com.taskino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgUpBPArPcrWhYrU35u8f7Wd2it60DnHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
